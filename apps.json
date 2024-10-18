@@ -1,0 +1,36 @@
+{
+    "programs": [
+        {
+            "name": "Google Chrome",
+            "url": "https://dl.google.com/chrome/install/GoogleChromeStandaloneEnterprise64.msi"
+        },
+        {
+            "name": "VLC Media Player",
+            "url": "https://get.videolan.org/vlc/3.0.16/win64/vlc-3.0.16-win64.exe"
+        },
+        {
+            "name": "Notepad++",
+            "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9.2/npp.8.1.9.2.Installer.exe"
+        },
+        {
+            "name": "7-Zip",
+            "url": "https://www.7-zip.org/a/7z2201-x64.exe"
+        },
+        {
+            "name": "Visual Studio Code",
+            "url": "https://aka.ms/win32-x64-user-stable"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.com/api/download?platform=win"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://download.scdn.co/SpotifySetup.exe"
+        },
+        {
+            "name": "Zoom",
+            "url": "https://zoom.us/client/latest/ZoomInstaller.exe"
+        }
+    ]
+}
